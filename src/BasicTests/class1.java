@@ -18,6 +18,6 @@ System.out.println("Parent");
 
 @Test
 public void gitCheck(){
-System.out.println("gitDemo");
+System.out.println("gitPractice");
 }
 }
