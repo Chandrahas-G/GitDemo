@@ -15,8 +15,9 @@ System.out.println("Parent");
 	public void before() {
 		System.out.println("first");
 	}
+
 @Test
 public void gitCheck(){
-System.out.println("gitPractice");
+System.out.println("gitDemo");
 }
 }
