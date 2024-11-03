@@ -7,6 +7,8 @@ public class class1 {
 	//@Test
 	public void test1() {
 		System.out.println("Parent");
+System.out.println("Parent");
+		
 	}
 
 	@BeforeMethod
